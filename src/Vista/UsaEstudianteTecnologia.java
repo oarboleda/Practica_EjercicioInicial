@@ -3,7 +3,7 @@ package Vista;
 /*
 *  Clase UsaEstudianteTecnologia
 *  Creado por: Orlando Arboleda Molina
-*  Actualizado: 15-Enero-2025
+*  Actualizado: 16-Enero-2025
 *
 *  Descripción: 
 *  Clase principal con la lógica de implementación del EjercicioInicial, 
