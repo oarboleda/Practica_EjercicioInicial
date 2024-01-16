@@ -4,7 +4,6 @@ package Vista;
 *  Clase UsaEstudianteTecnologia
 *  Creado por: Orlando Arboleda Molina
 *  Actualizado: 16-Enero-2025
-*  Texto de prueba sin salvar
 *
 *  Descripción: 
 *  Clase principal con la lógica de implementación del EjercicioInicial, 

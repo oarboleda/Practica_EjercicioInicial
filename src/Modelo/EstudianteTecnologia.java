@@ -4,7 +4,6 @@ package Modelo;
 *  Clase EstudianteTecnologia
 *  Creado por: Orlando Arboleda Molina
 *  Actualizado: 16-Enero-2025
-*  Tambien con texto extra
 *
 *  Descripción: 
 *  Clase que es la implementación de la clase para la construcción de los 
