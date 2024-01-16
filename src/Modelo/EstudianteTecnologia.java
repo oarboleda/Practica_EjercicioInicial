@@ -3,7 +3,7 @@ package Modelo;
 /*
 *  Clase EstudianteTecnologia
 *  Creado por: Orlando Arboleda Molina
-*  Actualizado: 15-Enero-2025
+*  Actualizado: 16-Enero-2025
 *
 *  Descripción: 
 *  Clase que es la implementación de la clase para la construcción de los 
